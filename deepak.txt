@@ -1,0 +1,16 @@
+Unit 1 
+Diode current equation
+Energy band diagram and derivation
+Pn junction diode
+Switching characteristics
+Zener diode
+Transition and diffusion capacitance
+ Unit 2
+CE, CB, CC
+MOSFET, JFET
+ Unit 3
+SCR, varacter, UJT, tunnel
+ Unit 4
+Mesh, nodal, transient
+ Unit 5
+Thevinen, norton, super position, maximum power transfer
